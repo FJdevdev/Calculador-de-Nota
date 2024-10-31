@@ -1,0 +1,14 @@
+C:\Users\konam\OneDrive\Área de Trabalho\C#\C#\ForeachElseIf\bin\Debug\net8.0\ForeachElseIf.exe
+C:\Users\konam\OneDrive\Área de Trabalho\C#\C#\ForeachElseIf\bin\Debug\net8.0\ForeachElseIf.deps.json
+C:\Users\konam\OneDrive\Área de Trabalho\C#\C#\ForeachElseIf\bin\Debug\net8.0\ForeachElseIf.runtimeconfig.json
+C:\Users\konam\OneDrive\Área de Trabalho\C#\C#\ForeachElseIf\bin\Debug\net8.0\ForeachElseIf.dll
+C:\Users\konam\OneDrive\Área de Trabalho\C#\C#\ForeachElseIf\bin\Debug\net8.0\ForeachElseIf.pdb
+C:\Users\konam\OneDrive\Área de Trabalho\C#\C#\ForeachElseIf\obj\Debug\net8.0\ForeachElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konam\OneDrive\Área de Trabalho\C#\C#\ForeachElseIf\obj\Debug\net8.0\ForeachElseIf.AssemblyInfoInputs.cache
+C:\Users\konam\OneDrive\Área de Trabalho\C#\C#\ForeachElseIf\obj\Debug\net8.0\ForeachElseIf.AssemblyInfo.cs
+C:\Users\konam\OneDrive\Área de Trabalho\C#\C#\ForeachElseIf\obj\Debug\net8.0\ForeachElseIf.csproj.CoreCompileInputs.cache
+C:\Users\konam\OneDrive\Área de Trabalho\C#\C#\ForeachElseIf\obj\Debug\net8.0\ForeachElseIf.dll
+C:\Users\konam\OneDrive\Área de Trabalho\C#\C#\ForeachElseIf\obj\Debug\net8.0\refint\ForeachElseIf.dll
+C:\Users\konam\OneDrive\Área de Trabalho\C#\C#\ForeachElseIf\obj\Debug\net8.0\ForeachElseIf.pdb
+C:\Users\konam\OneDrive\Área de Trabalho\C#\C#\ForeachElseIf\obj\Debug\net8.0\ForeachElseIf.genruntimeconfig.cache
+C:\Users\konam\OneDrive\Área de Trabalho\C#\C#\ForeachElseIf\obj\Debug\net8.0\ref\ForeachElseIf.dll
